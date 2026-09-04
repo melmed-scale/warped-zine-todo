@@ -1,0 +1,56 @@
+name: Sync Linear tickets
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch active Linear issues
+        env:
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+        run: |
+          RESPONSE=$(curl -s -X POST https://api.linear.app/graphql \
+            -H "Authorization: $LINEAR_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d '{"query": "{ viewer { assignedIssues(filter: { state: { type: { in: [\"unstarted\", \"started\"] } } }, first: 50) { nodes { identifier title url dueDate priority } } } }"}')
+
+          echo "$RESPONSE" | jq -e '.data.viewer.assignedIssues.nodes' > /dev/null || {
+            echo "Linear API did not return expected data:"
+            echo "$RESPONSE"
+            exit 1
+          }
+
+          echo "$RESPONSE" | jq '
+            def prioTag: if . >= 1 and . <= 2 then "high" elif . == 3 then "med" else "low" end;
+            {
+              generatedAt: (now | todate),
+              issues: [.data.viewer.assignedIssues.nodes[] | {
+                id: .identifier,
+                title: .title,
+                priority: (.priority | prioTag),
+                dueDate: .dueDate,
+                url: .url
+              }]
+            }
+          ' | (echo -n "window.LINEAR_DATA = "; cat; echo ";") > linear-data.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "linear-sync-bot"
+          git config user.email "actions@github.com"
+          if ! git diff --quiet linear-data.js; then
+            git add linear-data.js
+            git commit -m "Sync Linear tickets [automated]"
+            git push
+          else
+            echo "No changes"
+          fi
