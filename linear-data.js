@@ -1,6 +1,13 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-04T20:36:39Z",
+  "generatedAt": "2026-09-05T03:55:26Z",
   "issues": [
+    {
+      "id": "COMMS-4210",
+      "title": "[Ego OTS Basic] Draft email for high performing CBs",
+      "priority": "high",
+      "dueDate": null,
+      "url": "https://linear.app/scale-epd/issue/COMMS-4210/ego-ots-basic-draft-email-for-high-performing-cbs"
+    },
     {
       "id": "CONEX-1416",
       "title": "Confirm the July Trustpilot invitations went out and restart the cadence",
