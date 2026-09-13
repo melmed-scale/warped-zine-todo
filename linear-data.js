@@ -1,5 +1,5 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-13T15:58:19Z",
+  "generatedAt": "2026-09-13T20:35:09Z",
   "issues": [
     {
       "id": "COMMS-4224",
