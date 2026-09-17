@@ -1,6 +1,20 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-17T16:40:25Z",
+  "generatedAt": "2026-09-17T21:10:26Z",
   "issues": [
+    {
+      "id": "CONEX-1475",
+      "title": "Q3 roadmap sheet cleanup — DRI column, team names, 2 KRs, retro name",
+      "priority": "low",
+      "dueDate": "2026-09-21",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1475/q3-roadmap-sheet-cleanup-dri-column-team-names-2-krs-retro-name"
+    },
+    {
+      "id": "CONEX-1469",
+      "title": "Try Coupa virtual-card workflow for Buffer renewal",
+      "priority": "low",
+      "dueDate": "2026-09-24",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1469/try-coupa-virtual-card-workflow-for-buffer-renewal"
+    },
     {
       "id": "COMMS-4224",
       "title": "Create four-drip flow for agentic interview queue trigger",
