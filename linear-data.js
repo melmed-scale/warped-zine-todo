@@ -1,5 +1,5 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-22T16:41:01Z",
+  "generatedAt": "2026-09-22T21:06:46Z",
   "issues": [
     {
       "id": "CONEX-1475",
@@ -49,20 +49,6 @@ window.LINEAR_DATA = {
       "priority": "low",
       "dueDate": "2026-09-19",
       "url": "https://linear.app/scale-epd/issue/CONEX-1415/draft-the-q4-contributor-comms-transparency-strategy"
-    },
-    {
-      "id": "COMMS-4193",
-      "title": "Proactive comms for payouts support",
-      "priority": "med",
-      "dueDate": null,
-      "url": "https://linear.app/scale-epd/issue/COMMS-4193/proactive-comms-for-payouts-support"
-    },
-    {
-      "id": "COMMS-4191",
-      "title": "Onboarding course answers sold online",
-      "priority": "med",
-      "dueDate": null,
-      "url": "https://linear.app/scale-epd/issue/COMMS-4191/onboarding-course-answers-sold-online"
     },
     {
       "id": "CONEX-1280",
