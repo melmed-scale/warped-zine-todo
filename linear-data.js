@@ -1,6 +1,20 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-23T16:34:36Z",
+  "generatedAt": "2026-09-23T21:20:54Z",
   "issues": [
+    {
+      "id": "CONEX-1494",
+      "title": "Scope Amara's request to DM contributors in the community",
+      "priority": "low",
+      "dueDate": "2026-09-30",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1494/scope-amaras-request-to-dm-contributors-in-the-community"
+    },
+    {
+      "id": "CONEX-1486",
+      "title": "Plan Outlier Wrapped 2026 — kick off + feasibility decision",
+      "priority": "low",
+      "dueDate": "2026-09-30",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1486/plan-outlier-wrapped-2026-kick-off-feasibility-decision"
+    },
     {
       "id": "CONEX-1475",
       "title": "Q3 roadmap sheet cleanup — DRI column, team names, 2 KRs, retro name",
