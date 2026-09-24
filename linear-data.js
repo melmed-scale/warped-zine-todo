@@ -1,5 +1,5 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-23T21:20:54Z",
+  "generatedAt": "2026-09-24T04:11:36Z",
   "issues": [
     {
       "id": "CONEX-1494",
