@@ -1,6 +1,34 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-24T16:54:11Z",
+  "generatedAt": "2026-09-24T21:22:10Z",
   "issues": [
+    {
+      "id": "CONEX-1508",
+      "title": "Repoint the CopyCat and CommsDog n8n flows to SGP Enterprise once the agents are ported",
+      "priority": "low",
+      "dueDate": "2026-10-09",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1508/repoint-the-copycat-and-commsdog-n8n-flows-to-sgp-enterprise-once-the"
+    },
+    {
+      "id": "CONEX-1507",
+      "title": "Cut the overlapping webinar emails reaching new Odysseus contributors",
+      "priority": "low",
+      "dueDate": "2026-09-29",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1507/cut-the-overlapping-webinar-emails-reaching-new-odysseus-contributors"
+    },
+    {
+      "id": "CONEX-1506",
+      "title": "Work out what the Zoom licence change means for contributor interviews",
+      "priority": "low",
+      "dueDate": "2026-10-02",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1506/work-out-what-the-zoom-licence-change-means-for-contributor-interviews"
+    },
+    {
+      "id": "CONEX-1505",
+      "title": "Recommend audience and framing for the standalone screen-sharing contributor email",
+      "priority": "low",
+      "dueDate": "2026-09-29",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1505/recommend-audience-and-framing-for-the-standalone-screen-sharing"
+    },
     {
       "id": "CONEX-1494",
       "title": "Scope Amara's request to DM contributors in the community",
