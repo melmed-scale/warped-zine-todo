@@ -1,6 +1,48 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-29T12:31:28Z",
+  "generatedAt": "2026-09-29T22:05:27Z",
   "issues": [
+    {
+      "id": "CONEX-1530",
+      "title": "Run a Claude-led cost review of the team's automations and repo, and add cost safeguards",
+      "priority": "low",
+      "dueDate": "2026-10-01",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1530/run-a-claude-led-cost-review-of-the-teams-automations-and-repo-and-add"
+    },
+    {
+      "id": "CONEX-1529",
+      "title": "Force a resolution on the celebration comms eng ticket, using the ticketing system's question feature to ask the size of the lift",
+      "priority": "low",
+      "dueDate": "2026-10-01",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1529/force-a-resolution-on-the-celebration-comms-eng-ticket-using-the"
+    },
+    {
+      "id": "CONEX-1528",
+      "title": "Reply to Yanshan's question on the Outlier Wrapped open rate, framing it as a rare purely positive contributor comm",
+      "priority": "low",
+      "dueDate": "2026-09-29",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1528/reply-to-yanshans-question-on-the-outlier-wrapped-open-rate-framing-it"
+    },
+    {
+      "id": "CONEX-1527",
+      "title": "Propose the photoshoot dates and own shoot scheduling",
+      "priority": "low",
+      "dueDate": "2026-10-05",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1527/propose-the-photoshoot-dates-and-own-shoot-scheduling"
+    },
+    {
+      "id": "CONEX-1522",
+      "title": "Finalize the Toronto photoshoot creative brief using George's feedback",
+      "priority": "low",
+      "dueDate": "2026-10-05",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1522/finalize-the-toronto-photoshoot-creative-brief-using-georges-feedback"
+    },
+    {
+      "id": "COMMS-4279",
+      "title": "Send urgent email and SMS inviting reviewers to complete 10+ Club course",
+      "priority": "high",
+      "dueDate": null,
+      "url": "https://linear.app/scale-epd/issue/COMMS-4279/send-urgent-email-and-sms-inviting-reviewers-to-complete-10-club"
+    },
     {
       "id": "CONEX-1508",
       "title": "Repoint the CopyCat and CommsDog n8n flows to SGP Enterprise once the agents are ported",
@@ -44,13 +86,6 @@ window.LINEAR_DATA = {
       "url": "https://linear.app/scale-epd/issue/CONEX-1486/plan-outlier-wrapped-2026-kick-off-feasibility-decision"
     },
     {
-      "id": "CONEX-1475",
-      "title": "Q3 roadmap sheet cleanup — DRI column, team names, 2 KRs, retro name",
-      "priority": "low",
-      "dueDate": "2026-09-21",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1475/q3-roadmap-sheet-cleanup-dri-column-team-names-2-krs-retro-name"
-    },
-    {
       "id": "CONEX-1469",
       "title": "Try Coupa virtual-card workflow for Buffer renewal",
       "priority": "low",
@@ -58,11 +93,18 @@ window.LINEAR_DATA = {
       "url": "https://linear.app/scale-epd/issue/CONEX-1469/try-coupa-virtual-card-workflow-for-buffer-renewal"
     },
     {
-      "id": "COMMS-4224",
-      "title": "Create four-drip flow for agentic interview queue trigger",
-      "priority": "low",
-      "dueDate": null,
-      "url": "https://linear.app/scale-epd/issue/COMMS-4224/create-four-drip-flow-for-agentic-interview-queue-trigger"
+      "id": "CONEX-1446",
+      "title": "Explain project removal and reassignment to contributors instead of doing it silently",
+      "priority": "high",
+      "dueDate": "2026-09-25",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1446/explain-project-removal-and-reassignment-to-contributors-instead-of"
+    },
+    {
+      "id": "CONEX-1434",
+      "title": "Draft the proactive contributor email for periods with no available work",
+      "priority": "high",
+      "dueDate": "2026-09-22",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1434/draft-the-proactive-contributor-email-for-periods-with-no-available"
     },
     {
       "id": "COMMS-4221",
