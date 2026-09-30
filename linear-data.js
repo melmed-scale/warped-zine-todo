@@ -1,6 +1,13 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-29T22:05:27Z",
+  "generatedAt": "2026-09-30T05:02:05Z",
   "issues": [
+    {
+      "id": "CONEX-1533",
+      "title": "Confirm CopyCat reads its keys from the n8n credential store, and correct the incident summary",
+      "priority": "low",
+      "dueDate": "2026-09-30",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1533/confirm-copycat-reads-its-keys-from-the-n8n-credential-store-and"
+    },
     {
       "id": "CONEX-1530",
       "title": "Run a Claude-led cost review of the team's automations and repo, and add cost safeguards",
