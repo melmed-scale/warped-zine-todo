@@ -1,6 +1,62 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-09-30T12:16:20Z",
+  "generatedAt": "2026-09-30T22:04:47Z",
   "issues": [
+    {
+      "id": "CONEX-1551",
+      "title": "Draft the newsletter every Wednesday.",
+      "priority": "low",
+      "dueDate": "2026-09-30",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1551/draft-the-newsletter-every-wednesday"
+    },
+    {
+      "id": "CONEX-1550",
+      "title": "Send the newsletter every Thursday.",
+      "priority": "low",
+      "dueDate": "2026-10-01",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1550/send-the-newsletter-every-thursday"
+    },
+    {
+      "id": "CONEX-1549",
+      "title": "Review mallory's IG post and schedule thru buffer",
+      "priority": "low",
+      "dueDate": "2026-10-01",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1549/review-mallorys-ig-post-and-schedule-thru-buffer"
+    },
+    {
+      "id": "CONEX-1548",
+      "title": "Eliana Melmed talks to Twan to confirm the billing, budget and reimbursement process for Anchor Week travel and incidentals.",
+      "priority": "low",
+      "dueDate": "2026-10-01",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1548/eliana-melmed-talks-to-twan-to-confirm-the-billing-budget-and"
+    },
+    {
+      "id": "CONEX-1547",
+      "title": "Eliana Melmed provisionally contacts a photo studio to hold October 15 and 16 for the Toronto shoot.",
+      "priority": "low",
+      "dueDate": "2026-10-01",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1547/eliana-melmed-provisionally-contacts-a-photo-studio-to-hold-october-15"
+    },
+    {
+      "id": "CONEX-1543",
+      "title": "Eliana Melmed meets with Amara for about 20 minutes to write down the contributor-DM problem statement, proposed solution, and how it would work.",
+      "priority": "low",
+      "dueDate": "2026-10-01",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1543/eliana-melmed-meets-with-amara-for-about-20-minutes-to-write-down-the"
+    },
+    {
+      "id": "CONEX-1541",
+      "title": "Eliana Melmed adds cost-consciousness rules to the /edit cats Slack command and to Claude's instructions.",
+      "priority": "low",
+      "dueDate": "2026-10-01",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1541/eliana-melmed-adds-cost-consciousness-rules-to-the-edit-cats-slack"
+    },
+    {
+      "id": "CONEX-1537",
+      "title": "Circulate the photoshoot creative brief to Max, Lucy, the delivery leads and Ali for sign-off",
+      "priority": "low",
+      "dueDate": "2026-10-07",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1537/circulate-the-photoshoot-creative-brief-to-max-lucy-the-delivery-leads"
+    },
     {
       "id": "CONEX-1533",
       "title": "Confirm CopyCat reads its keys from the n8n credential store, and correct the incident summary",
@@ -26,15 +82,8 @@ window.LINEAR_DATA = {
       "id": "CONEX-1528",
       "title": "Reply to Yanshan's question on the Outlier Wrapped open rate, framing it as a rare purely positive contributor comm",
       "priority": "low",
-      "dueDate": "2026-09-29",
+      "dueDate": "2026-10-01",
       "url": "https://linear.app/scale-epd/issue/CONEX-1528/reply-to-yanshans-question-on-the-outlier-wrapped-open-rate-framing-it"
-    },
-    {
-      "id": "CONEX-1527",
-      "title": "Propose the photoshoot dates and own shoot scheduling",
-      "priority": "low",
-      "dueDate": "2026-10-05",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1527/propose-the-photoshoot-dates-and-own-shoot-scheduling"
     },
     {
       "id": "CONEX-1522",
@@ -61,21 +110,14 @@ window.LINEAR_DATA = {
       "id": "CONEX-1507",
       "title": "Cut the overlapping webinar emails reaching new Odysseus contributors",
       "priority": "low",
-      "dueDate": "2026-09-29",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1507/cut-the-overlapping-webinar-emails-reaching-new-odysseus-contributors"
-    },
-    {
-      "id": "CONEX-1506",
-      "title": "Work out what the Zoom licence change means for contributor interviews",
-      "priority": "low",
       "dueDate": "2026-10-02",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1506/work-out-what-the-zoom-licence-change-means-for-contributor-interviews"
+      "url": "https://linear.app/scale-epd/issue/CONEX-1507/cut-the-overlapping-webinar-emails-reaching-new-odysseus-contributors"
     },
     {
       "id": "CONEX-1505",
       "title": "Recommend audience and framing for the standalone screen-sharing contributor email",
       "priority": "low",
-      "dueDate": "2026-09-29",
+      "dueDate": "2026-10-02",
       "url": "https://linear.app/scale-epd/issue/CONEX-1505/recommend-audience-and-framing-for-the-standalone-screen-sharing"
     },
     {
@@ -96,29 +138,22 @@ window.LINEAR_DATA = {
       "id": "CONEX-1469",
       "title": "Try Coupa virtual-card workflow for Buffer renewal",
       "priority": "low",
-      "dueDate": "2026-09-24",
+      "dueDate": "2026-10-02",
       "url": "https://linear.app/scale-epd/issue/CONEX-1469/try-coupa-virtual-card-workflow-for-buffer-renewal"
     },
     {
       "id": "CONEX-1446",
       "title": "Explain project removal and reassignment to contributors instead of doing it silently",
       "priority": "high",
-      "dueDate": "2026-09-25",
+      "dueDate": "2026-10-02",
       "url": "https://linear.app/scale-epd/issue/CONEX-1446/explain-project-removal-and-reassignment-to-contributors-instead-of"
     },
     {
       "id": "CONEX-1434",
       "title": "Draft the proactive contributor email for periods with no available work",
       "priority": "high",
-      "dueDate": "2026-09-22",
+      "dueDate": "2026-10-02",
       "url": "https://linear.app/scale-epd/issue/CONEX-1434/draft-the-proactive-contributor-email-for-periods-with-no-available"
-    },
-    {
-      "id": "COMMS-4221",
-      "title": "Support Ops planning IDV failure deflection for user errors",
-      "priority": "low",
-      "dueDate": null,
-      "url": "https://linear.app/scale-epd/issue/COMMS-4221/support-ops-planning-idv-failure-deflection-for-user-errors"
     },
     {
       "id": "COMMS-4210",
@@ -126,20 +161,6 @@ window.LINEAR_DATA = {
       "priority": "high",
       "dueDate": null,
       "url": "https://linear.app/scale-epd/issue/COMMS-4210/ego-ots-basic-draft-email-for-high-performing-cbs"
-    },
-    {
-      "id": "CONEX-1416",
-      "title": "Confirm the July Trustpilot invitations went out and restart the cadence",
-      "priority": "low",
-      "dueDate": "2026-09-09",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1416/confirm-the-july-trustpilot-invitations-went-out-and-restart-the"
-    },
-    {
-      "id": "CONEX-1415",
-      "title": "Draft the Q4 contributor comms transparency strategy",
-      "priority": "low",
-      "dueDate": "2026-09-19",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1415/draft-the-q4-contributor-comms-transparency-strategy"
     },
     {
       "id": "CONEX-1280",
