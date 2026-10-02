@@ -1,54 +1,33 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-10-02T12:14:28Z",
+  "generatedAt": "2026-10-02T22:01:30Z",
   "issues": [
+    {
+      "id": "CONEX-1580",
+      "title": "Eliana Melmed reviews and approves updated Help Center articles through the Zendesk API as Mario sends them.",
+      "priority": "low",
+      "dueDate": "2026-10-08",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1580/eliana-melmed-reviews-and-approves-updated-help-center-articles"
+    },
+    {
+      "id": "CONEX-1564",
+      "title": "Book photo studio for Toronto shoot (Oct 15-16)",
+      "priority": "low",
+      "dueDate": "2026-10-07",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1564/book-photo-studio-for-toronto-shoot-oct-15-16"
+    },
+    {
+      "id": "CONEX-1563",
+      "title": "Book Anchor Week flights",
+      "priority": "low",
+      "dueDate": "2026-10-07",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1563/book-anchor-week-flights"
+    },
     {
       "id": "CONEX-1551",
       "title": "Draft the newsletter every Wednesday.",
       "priority": "low",
       "dueDate": "2026-10-07",
       "url": "https://linear.app/scale-epd/issue/CONEX-1551/draft-the-newsletter-every-wednesday"
-    },
-    {
-      "id": "CONEX-1550",
-      "title": "Send the newsletter every Thursday.",
-      "priority": "low",
-      "dueDate": "2026-10-01",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1550/send-the-newsletter-every-thursday"
-    },
-    {
-      "id": "CONEX-1549",
-      "title": "Review mallory's IG post and schedule thru buffer",
-      "priority": "low",
-      "dueDate": "2026-10-01",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1549/review-mallorys-ig-post-and-schedule-thru-buffer"
-    },
-    {
-      "id": "CONEX-1548",
-      "title": "Eliana Melmed talks to Twan to confirm the billing, budget and reimbursement process for Anchor Week travel and incidentals.",
-      "priority": "low",
-      "dueDate": "2026-10-01",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1548/eliana-melmed-talks-to-twan-to-confirm-the-billing-budget-and"
-    },
-    {
-      "id": "CONEX-1547",
-      "title": "Eliana Melmed provisionally contacts a photo studio to hold October 15 and 16 for the Toronto shoot.",
-      "priority": "low",
-      "dueDate": "2026-10-01",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1547/eliana-melmed-provisionally-contacts-a-photo-studio-to-hold-october-15"
-    },
-    {
-      "id": "CONEX-1543",
-      "title": "Eliana Melmed meets with Amara for about 20 minutes to write down the contributor-DM problem statement, proposed solution, and how it would work.",
-      "priority": "low",
-      "dueDate": "2026-10-01",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1543/eliana-melmed-meets-with-amara-for-about-20-minutes-to-write-down-the"
-    },
-    {
-      "id": "CONEX-1541",
-      "title": "Eliana Melmed adds cost-consciousness rules to the /edit cats Slack command and to Claude's instructions.",
-      "priority": "low",
-      "dueDate": "2026-10-01",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1541/eliana-melmed-adds-cost-consciousness-rules-to-the-edit-cats-slack"
     },
     {
       "id": "CONEX-1537",
@@ -65,17 +44,10 @@ window.LINEAR_DATA = {
       "url": "https://linear.app/scale-epd/issue/CONEX-1533/confirm-copycat-reads-its-keys-from-the-n8n-credential-store-and"
     },
     {
-      "id": "CONEX-1530",
-      "title": "Run a Claude-led cost review of the team's automations and repo, and add cost safeguards",
-      "priority": "low",
-      "dueDate": "2026-10-01",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1530/run-a-claude-led-cost-review-of-the-teams-automations-and-repo-and-add"
-    },
-    {
       "id": "CONEX-1529",
       "title": "Force a resolution on the celebration comms eng ticket, using the ticketing system's question feature to ask the size of the lift",
       "priority": "low",
-      "dueDate": "2026-10-01",
+      "dueDate": "2026-10-02",
       "url": "https://linear.app/scale-epd/issue/CONEX-1529/force-a-resolution-on-the-celebration-comms-eng-ticket-using-the"
     },
     {
@@ -87,10 +59,10 @@ window.LINEAR_DATA = {
     },
     {
       "id": "CONEX-1508",
-      "title": "Repoint the CopyCat and CommsDog n8n flows to SGP Enterprise once the agents are ported",
+      "title": "Check in with Asher on the agent port and the CopyCat retro, then repoint the CopyCat and CommsDog n8n flows to SGP Enterprise",
       "priority": "low",
       "dueDate": "2026-10-09",
-      "url": "https://linear.app/scale-epd/issue/CONEX-1508/repoint-the-copycat-and-commsdog-n8n-flows-to-sgp-enterprise-once-the"
+      "url": "https://linear.app/scale-epd/issue/CONEX-1508/check-in-with-asher-on-the-agent-port-and-the-copycat-retro-then"
     },
     {
       "id": "CONEX-1507",
@@ -124,14 +96,14 @@ window.LINEAR_DATA = {
       "id": "CONEX-1469",
       "title": "Try Coupa virtual-card workflow for Buffer renewal",
       "priority": "low",
-      "dueDate": "2026-10-02",
+      "dueDate": "2026-10-05",
       "url": "https://linear.app/scale-epd/issue/CONEX-1469/try-coupa-virtual-card-workflow-for-buffer-renewal"
     },
     {
       "id": "CONEX-1446",
       "title": "Explain project removal and reassignment to contributors instead of doing it silently",
       "priority": "high",
-      "dueDate": "2026-10-02",
+      "dueDate": "2026-10-09",
       "url": "https://linear.app/scale-epd/issue/CONEX-1446/explain-project-removal-and-reassignment-to-contributors-instead-of"
     },
     {
