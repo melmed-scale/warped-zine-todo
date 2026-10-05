@@ -1,6 +1,13 @@
 window.LINEAR_DATA = {
-  "generatedAt": "2026-10-05T14:11:36Z",
+  "generatedAt": "2026-10-05T23:55:27Z",
   "issues": [
+    {
+      "id": "CONEX-1601",
+      "title": "Eliana Melmed drafts a revised contributor email for the new Dark Matter buffet-style artifact model by Monday, using Alice's PKJA template as the starting point, and syncs with Neal Desai to review it.",
+      "priority": "low",
+      "dueDate": "2026-10-05",
+      "url": "https://linear.app/scale-epd/issue/CONEX-1601/eliana-melmed-drafts-a-revised-contributor-email-for-the-new-dark"
+    },
     {
       "id": "CONEX-1580",
       "title": "Eliana Melmed reviews and approves updated Help Center articles through the Zendesk API as Mario sends them.",
